@@ -1,0 +1,86 @@
+{
+  "Cosmetics": {
+    "Perfume": {
+      "price": 1500,
+      "count": 3
+    },
+    "Lipstick": {
+      "price": 600.0,
+      "count": 15
+    },
+    "Foundation": {
+      "price": 1200,
+      "count": 5
+    },
+    "Nail Polish": {
+      "price": 300,
+      "count": 20
+    },
+    "Face Cream": {
+      "price": 1000,
+      "count": 8
+    },
+    "Sunscreen": {
+      "price": 700,
+      "count": 12
+    },
+    "Eye Shadow": {
+      "price": 900,
+      "count": 7
+    }
+  },
+  "Electronics": {
+    "Laptop": {
+      "price": 60000,
+      "count": 1
+    },
+    "Mouse": {
+      "price": 800,
+      "count": 15
+    },
+    "Keyboard": {
+      "price": 1200,
+      "count": 10
+    },
+    "Smartphone": {
+      "price": 30000,
+      "count": 5
+    }
+  },
+  "Food": {
+    "Apple": {
+      "price": 120,
+      "count": 50
+    },
+    "Bread": {
+      "price": 50,
+      "count": 20
+    },
+    "Milk": {
+      "price": 60,
+      "count": 30
+    },
+    "Eggs": {
+      "price": 200,
+      "count": 25
+    },
+    "Rice": {
+      "price": 100,
+      "count": 15
+    }
+  },
+  "Clothing": {
+    "Shirt": {
+      "price": 800,
+      "count": 10
+    },
+    "Jeans": {
+      "price": 1500,
+      "count": 3
+    },
+    "Jacket": {
+      "price": 2500,
+      "count": 2
+    }
+  }
+}
